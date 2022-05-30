@@ -1,0 +1,187 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap");
+
+* {
+	color: rgb(0, 0, 0);
+	font-family: "Josefin Sans", sans-serif;
+}
+
+body {
+	margin: 30px;
+	font-family: "Josefin Sans", sans-serif;
+	text-align: center;
+	background-image: url("https://i.ibb.co/d0M0DxB/backgroundwallpaper.jpg");
+	background-color: #000000;
+	background-size: auto;
+	background-position: center top;
+	background-repeat: no-repeat;
+}
+
+.container {
+	text-align: center;
+	padding: 20px;
+}
+
+.page-title {
+	color: red;
+	margin: 0 0 50px;
+	font-size: 50px;
+}
+
+.page-logo {
+	width: 140px;
+	margin: 10px;
+}
+.page-title:hover { 
+	transform: scale(1.2);
+  transition-duration: 0.5s;
+  color: darkred;
+}
+
+.alura-logo {
+	width: 40px;
+	position: absolute;
+	top: 10px;
+	right: 10px;
+}
+
+ul {
+	list-style: none;
+	display: flex;
+	overflow-x: auto;
+	padding: 0;
+}
+
+#ulCanais img,
+#ulCanaisFavoritos img {
+	width: 80px;
+	height: 80px;
+	border-radius: 10%;
+}
+
+#ulFilmes img {
+	width: 150px;
+	height: 210px;
+	border-radius: 5px;
+}
+
+ul img {
+	margin: 10px;
+	transition: 200ms;
+}
+
+ul img:hover {
+	box-shadow: 0px 0px 0px 5px #0006;
+}
+
+h3 {
+	text-align: start;
+}
+
+label {
+	opacity: 0;
+	transition: 300ms;
+}
+
+li {
+	position: relative;
+	width: min-content;
+}
+#btnAdicionar {
+	cursor: pointer;
+	transition: 200ms;
+}
+
+#btnAdicionar:hover,
+#btnAdicionar:active {
+	box-shadow: 0 0 0 4px #fff6;
+}
+#nome,
+#url,
+#imagem,
+#btnAdicionar,
+select {
+	margin: 5px;
+	color: black;
+	outline: none;
+	border-radius: 5px;
+	border: 2px solid white;
+}
+
+#nome,
+#url,
+#imagem {
+	background: transparent;
+	color: white;
+	width: 162px;
+	padding: 2px;
+}
+
+#opcoesCategoria {
+	padding: 2px;
+	color: white;
+	width: 170px;
+	background: grey;
+	border: none;
+}
+
+li button {
+	background: none;
+	border: none;
+	position: absolute;
+	top: 0;
+	right: 0;
+	padding: 0;
+}
+
+#btnDeletar {
+	opacity: 0;
+	transition: 200ms;
+	cursor: pointer;
+	width: 35px;
+	height: 35px;
+	margin: 5px;
+}
+
+#btnDeletar img {
+	width: 35px;
+	height: auto;
+	margin: 0;
+	transition: 200ms;
+}
+
+#btnDeletar img:hover {
+	box-shadow: 0px 0px 4px 3.3px red;
+}
+
+::-webkit-scrollbar {
+	height: 15px;
+}
+
+::-webkit-scrollbar-thumb {
+	background-color: #fffa;
+	border-radius: 10px;
+}
+
+::-webkit-scrollbar-track {
+	background-color: #000a;
+	border-radius: 10px;
+}
+
+@media (min-width: 1000px) {
+	.container {
+		padding: 0 80px;
+	}
+}
+
+@media (max-width: 600px) {
+	.container {
+		padding: 0 10px;
+	}
+}
+
+footer {
+  text-align: center;
+}
+footer p:hover {
+  color: darkblue;
+}
