@@ -1,5 +1,5 @@
 <h1 align="center">Myflix</h1>
- <p align="center">Organize seus filmes e canais favoritos de uma maneira simples e personalizada! 🍿🍿 </p>
+ <p align="center">Organize seus filmes e canais favoritos de maneira simples e personalizada! 🍿 </p>
  
 ![myflixx](https://user-images.githubusercontent.com/100965881/172965720-6a7cd5f0-4e09-4e40-94bd-a0c7be1dee31.gif)
 
