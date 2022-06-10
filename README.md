@@ -9,6 +9,7 @@
 
 #
 <p align="center">
+ <a href="#sobre">Sobre</a> •
  <a href="#objetivo">Objetivo</a> •
  <a href="#demonstracao">Demonstracao</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
@@ -18,6 +19,11 @@
 
 # 
 
+### Sobre
+Loading...
+
+#
+
 ### Objetivo
 Loading...
 
@@ -25,7 +31,7 @@ Loading...
 
 ### Demonstracao 
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5316d395-b134-4463-99f4-cc388e33c421/deploy-status)](https://app.netlify.com/sites/eloquent-pudding-a7ecc2/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5316d395-b134-4463-99f4-cc388e33c421/deploy-status)](https://app.netlify.com/sites/eloquent-pudding-a7ecc2/deploys) (Em construcao)
 
 #
 
