@@ -21,7 +21,7 @@
 
 ### Sobre
 
-Projeto de um site com design inspirado no netflix, que representa um interface minimalista, com elementos como: catalogo personalizado com filmes e series, canais favoritos de programacao e entretenimento.
+Projeto de um site com design inspirado no netflix, que representa uma interface minimalista, com elementos como: catalogo personalizado com filmes e series, canais favoritos de programacao e entretenimento.
 
 #
 
