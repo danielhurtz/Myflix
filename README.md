@@ -10,7 +10,6 @@
 #
 <p align="center">
  <a href="#sobre">Sobre</a> •
- <a href="#objetivo">Objetivo</a> •
  <a href="#demonstração">Demonstração</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#autor">Autor</a> •
@@ -21,7 +20,7 @@
 
 ### Sobre
 
-Projeto de um site com design inspirado no netflix, que representa uma interface minimalista, com elementos como: catalogo personalizado com filmes e series, canais favoritos de programacao e entretenimento.
+Projeto de um site com design inspirado no netflix, que representa uma interface minimalista, com elementos como: catalogo personalizado com filmes e series, canais favoritos de programacao e entretenimento. #imersao dev_ Alura
 
 #
 
