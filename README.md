@@ -20,7 +20,7 @@
 
 ### Sobre
 
-Projeto de um site com design inspirado no netflix, que representa uma interface minimalista, com elementos como: catalogo personalizado com filmes e series, canais favoritos de programacao e entretenimento. #imersao dev_ Alura
+Projeto que consiste em um site com design inspirado no netflix, representando uma interface limpa e minimalista, com elementos como: catalogo personalizado com filmes e series, canais favoritos de programacao e entretenimento. #imersao dev_ Alura
 
 #
 
