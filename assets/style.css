@@ -1,7 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap");
 
 * {
-	color: rgb(0, 0, 0);
 	font-family: "Josefin Sans", sans-serif;
 }
 
@@ -77,6 +76,7 @@ ul img:hover {
 
 h3 {
 	text-align: start;
+	color: #fff;
 }
 
 label {
@@ -96,7 +96,7 @@ li {
 
 #btnAdicionar:hover,
 #btnAdicionar:active {
-	box-shadow: 0 0 0 4px rgba(0, 0, 0, 0.4);
+	box-shadow: 0 0 0 4px #000;
 }
 
 #nome,
@@ -105,27 +105,37 @@ li {
 #btnAdicionar,
 select {
 	margin: 5px;
-	color: black;
+	color: rgb(0, 0, 0);
 	outline: none;
 	border-radius: 5px;
-	border: 2px solid white;
+	border: 2px solid rgba(2, 2, 2, 0.555);
+}
+
+option {
+	background-color: rgb(0, 0, 0);
 }
 
 #nome,
 #url,
 #imagem {
 	background: transparent;
-	color: white;
 	width: 162px;
 	padding: 2px;
 }
 
 #opcoesCategoria {
 	padding: 2px;
-	color: white;
+	color: rgb(255, 255, 255);
 	width: 170px;
-	background: grey;
-	border: none;
+	background: rgba(5, 5, 5, 0.452);
+}
+
+input::placeholder {
+	color: #fff
+}
+
+select option {
+	color: #fff;
 }
 
 li button {
