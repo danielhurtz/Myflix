@@ -53,7 +53,7 @@ let linkFavoritos = [
 
 let imgFavoritos = [
     // Brasil Paralelo
-    "https://yt3.ggpht.com/tl3OC47VwK24AFYPRTkl3XZ04opl5SjoIKuse70ZEBn_DNQWYwm3O5Gsr6LeBFK5Ty9IJqb3=s88-c-k-c0x00ffffff-no-rj",
+    "https://yt3.ggpht.com/l89nOUZ6sATDb_XKIxFION2n5tUdkaPocxks-xFg0UWunIuEvfqfjdwi1zlVbmLmyEhhBrLx=s88-c-k-c0x00ffffff-no-rj",
     // Anderson Dick
     "https://yt3.ggpht.com/uedhJhoQtcN_6jHOgg_ODBVMBeTZIHxcNke6JKohIz_PXismVxJ9yg2pmREilzS23l5ujyOH=s88-c-k-c0x00ffffff-no-rj",
     // Fernando Ulrich

@@ -25,16 +25,18 @@ body {
 	color: red;
 	margin: 0 0 50px;
 	font-size: 50px;
+	cursor: default;
 }
 
 .page-logo {
 	width: 140px;
 	margin: 10px;
 }
-.page-title:hover { 
+
+.page-title:hover {
 	transform: scale(1.2);
-  transition-duration: 0.5s;
-  color: darkred;
+	transition-duration: 0.5s;
+	color: darkred;
 }
 
 .alura-logo {
@@ -86,6 +88,7 @@ li {
 	position: relative;
 	width: min-content;
 }
+
 #btnAdicionar {
 	cursor: pointer;
 	transition: 200ms;
@@ -93,8 +96,9 @@ li {
 
 #btnAdicionar:hover,
 #btnAdicionar:active {
-	box-shadow: 0 0 0 4px #fff6;
+	box-shadow: 0 0 0 4px rgba(0, 0, 0, 0.4);
 }
+
 #nome,
 #url,
 #imagem,
@@ -180,8 +184,10 @@ li button {
 }
 
 footer {
-  text-align: center;
+	text-align: center;
 }
+
 footer p:hover {
-  color: darkblue;
+	color: #fff;
+	transition-duration: 2s;
 }
