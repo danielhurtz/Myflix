@@ -76,12 +76,13 @@ ul img:hover {
 
 h3 {
 	text-align: start;
-	color: #fff;
+	color: rgb(255, 255, 255);
 }
 
 label {
 	opacity: 0;
 	transition: 300ms;
+	color: rgba(255, 255, 255, 0.541);
 }
 
 li {
