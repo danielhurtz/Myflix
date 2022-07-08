@@ -68,20 +68,20 @@ let imgFavoritos = [
 let sobreFilmes = [
     "The Godfather",
     "Seven",
-    "Leon: The Professional"
+    "Breaking Bad"
 ];
 
 let linkFilmes = [
     "https://www.youtube.com/watch?v=UaVTIH8mujA", // The Godfather >> link trailer
     "https://www.youtube.com/watch?v=znmZoVkCjpI",
-    "https://www.youtube.com/watch?v=aNQqoExfQsg"
+    "https://www.youtube.com/watch?v=HhesaQXLuRY"
 ];
 
 let imgFilmes = [
     "https://uauposters.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/5/1/518020201013-uau-posters-filmes-mafia-the-godfather-o-poderoso-chefao.jpg", // The Godfather
     "https://br.web.img3.acsta.net/pictures/210/124/21012465_2013061319170245.jpg", // Seven
 
-    "http://cinetop.com.br/wp-content/uploads/2019/09/MV5BMTc3Mzg0NDE0MV5BMl5BanBnXkFtZTgwNzQ1MzgyMjI@._V1_.jpg" // Leon
+    "https://www.naijhiphop.com.ng/wp-content/uploads/2022/03/Breaking-Bad.jpg" // Breaking Bad
 ];
 
 for (var i = 0; i < linkCanais.length; i++) {
