@@ -32,9 +32,7 @@ Loading...
 ### Demonstração
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/5316d395-b134-4463-99f4-cc388e33c421/deploy-status)](https://myflixsite1.netlify.app/)
-![myflixv1-page](https://user-images.githubusercontent.com/100965881/172983895-13b96b93-c050-4e97-abbf-ae10c4e95964.png)
-
-
+![Screenshot-myflix_1](https://user-images.githubusercontent.com/100965881/178124369-4bd06b55-1fbd-4401-88b3-ea5fb854960a.png)
 
 #
 
