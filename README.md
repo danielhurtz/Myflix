@@ -40,7 +40,7 @@ Loading...
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:<br>
 Navegador. <br>
-Além disto é bom ter um editor para trabalhar com o código como VSCode.
+<!-- Além disto é bom ter um editor para trabalhar com o código como VSCode. -->
 
 #
 
@@ -60,7 +60,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### Autor
  
-Feito por [**Daniel Oliveira**](https://github.com/danielhurtz) 👏🏻 
+Feito por [**Daniel Oliveira**](https://github.com/danielhurtz) 
 <!-- Feito por Daniel Oliveira 👋🏽 Entre em contato! -->
 
 #
