@@ -3,10 +3,6 @@
  
 ![myflixx](https://user-images.githubusercontent.com/100965881/172965720-6a7cd5f0-4e09-4e40-94bd-a0c7be1dee31.gif)
 
-<p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
-</p>
-
 #
 <p align="center">
  <a href="#sobre">Sobre</a> •
