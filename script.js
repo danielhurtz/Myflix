@@ -53,7 +53,7 @@ let linkFavoritos = [
 
 let imgFavoritos = [
     // Brasil Paralelo
-    "https://yt3.ggpht.com/l89nOUZ6sATDb_XKIxFION2n5tUdkaPocxks-xFg0UWunIuEvfqfjdwi1zlVbmLmyEhhBrLx=s88-c-k-c0x00ffffff-no-rj",
+    "https://yt3.ggpht.com/kPjpY3hE3oBkiE7w-TfSzt63UaMkF0sQudHtN1b3I3Ty77bPbUcr-lQb8CrOYcP1TsRV1clj=s176-c-k-c0x00ffffff-no-rj",
     // Anderson Dick
     "https://yt3.ggpht.com/uedhJhoQtcN_6jHOgg_ODBVMBeTZIHxcNke6JKohIz_PXismVxJ9yg2pmREilzS23l5ujyOH=s88-c-k-c0x00ffffff-no-rj",
     // Fernando Ulrich
@@ -78,7 +78,7 @@ let linkFilmes = [
 ];
 
 let imgFilmes = [
-    "https://uauposters.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/5/1/518020201013-uau-posters-filmes-mafia-the-godfather-o-poderoso-chefao.jpg", // The Godfather
+    "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg", // The Godfather
     "https://br.web.img3.acsta.net/pictures/210/124/21012465_2013061319170245.jpg", // Seven
 
     "https://www.naijhiphop.com.ng/wp-content/uploads/2022/03/Breaking-Bad.jpg" // Breaking Bad
